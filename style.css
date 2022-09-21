@@ -1,0 +1,49 @@
+.navbar {
+    /* background-color: #2A2B25; */
+
+}
+
+.logo {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+#myMenu li a {
+    color: #fff;
+    font-size: 17px;
+}
+
+#myMenu li a:hover {
+    color: #F17024;
+}
+
+/* banner */
+.carousel-item img {
+    height: 500px;
+}
+
+/* news */
+.news {
+
+
+    padding: 30px;
+}
+
+
+
+/*Change footer link color*/
+footer a {
+    color: #DC3545;
+    margin-left: 10px;
+
+}
+
+footer i {
+
+    font-size: 20px;
+}
+
+footer a:hover {
+    color: #fff;
+}
